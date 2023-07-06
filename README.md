@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaiGoodmen
 - 👀 I’m interested in Android app development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on On Android service based app projects
+- 💞️ I’m looking to collaborate on On Flutter service based app projects
 - 📫 How to reach me Hirgeto18@gmail.com
 
 <!---
